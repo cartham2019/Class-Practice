@@ -3,6 +3,7 @@
 This is a practice project for a class activity, describing the OSU vs Texas series history. 
 [Next Fixture Link](https://www.espn.com/college-football/game/_/gameId/401856682/ohio-state-texas)
 ## **Series History**
+
 |Wins|Losses|
 |---|---|
 |3|2|
