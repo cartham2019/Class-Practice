@@ -6,5 +6,4 @@ This is a practice project for a class activity, describing the OSU vs Texas ser
 |Wins|Losses|
 |-----|-----|
 |3|2|
-``` I made the bold text like this: **Series History**
-```
+``` I made the bold text like this: **Series History** ```
